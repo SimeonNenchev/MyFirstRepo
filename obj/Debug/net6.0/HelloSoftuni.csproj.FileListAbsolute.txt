@@ -1,0 +1,14 @@
+C:\Users\vlave\source\repos\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.exe
+C:\Users\vlave\source\repos\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.deps.json
+C:\Users\vlave\source\repos\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.runtimeconfig.json
+C:\Users\vlave\source\repos\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.dll
+C:\Users\vlave\source\repos\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.pdb
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.AssemblyInfoInputs.cache
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.AssemblyInfo.cs
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.csproj.CoreCompileInputs.cache
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.dll
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\refint\HelloSoftuni.dll
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.pdb
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.genruntimeconfig.cache
+C:\Users\vlave\source\repos\HelloSoftuni\obj\Debug\net6.0\ref\HelloSoftuni.dll
